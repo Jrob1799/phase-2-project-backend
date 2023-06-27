@@ -1,3 +1,76 @@
 {
-  "teams": []
+  "teams": [
+    {
+      "username": "Thompson",
+      "team": [
+        "mew",
+        "mewtwo",
+        "dragonite",
+        "moltres",
+        "zapdos",
+        "articuno"
+      ],
+      "id": 1
+    },
+    {
+      "username": "Tom",
+      "team": [
+        "ditto",
+        "pidgeot",
+        "kadabra",
+        "magnemite",
+        "jynx",
+        "aerodactyl"
+      ],
+      "id": 2
+    },
+    {
+      "username": "Oli",
+      "team": [
+        "weedle",
+        "weedle",
+        "weedle",
+        "weedle",
+        "weedle",
+        "weedle"
+      ],
+      "id": 3
+    },
+    {
+      "username": "Monica",
+      "team": [
+        "butterfree",
+        "beedrill",
+        "pidgeotto",
+        "zubat",
+        "venomoth",
+        "alakazam"
+      ],
+      "id": 4
+    },
+    {
+      "username": "Jay",
+      "team": [
+        "caterpie",
+        "snorlax",
+        "dratini",
+        "haunter",
+        "horsea",
+        "eevee"
+      ],
+      "id": 5
+    },
+    {
+      "username": "CJ",
+      "team": [
+        "vulpix",
+        "onix",
+        "geodude",
+        "dewgong",
+        "kingler",
+        "grimer"
+      ],
+      "id": 6
+    }
+  ]
 }
